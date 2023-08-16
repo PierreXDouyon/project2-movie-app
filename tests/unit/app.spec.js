@@ -9,6 +9,11 @@ describe('App.vue', () => {
 
   });
 
+  it('renders MovieDetailCard components for all movies', () => {
+  
+  });
+  
+
   it('renders the MovieList component', () => {
 
   });
