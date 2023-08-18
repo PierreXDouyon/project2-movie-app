@@ -2,13 +2,17 @@ describe("Header.vue", () => {
   it("renders buttons for menu items in non-responsive layout", () => {});
   //
 
-  it("toggles home button on menu item click", async () => {});
+  it('toggles "home" button on menu item click', async () => {});
 
-  it("toggles cinema-movies button on menu item click", async () => {});
+  it('toggles "cinema-movies" button on menu item click', async () => {});
 
-  it("toggles streaming-movies button on menu item click", async () => {});
+  it('toggles "streaming-movies" button on menu item click', async () => {});
 
-  it("toggles watchlist button on menu item click", async () => {});
+  it('toggles "watchlist" button on menu item click', async () => {});
+
+  it('toggles "sign-up" button on menu item click', async () => {});
+
+  it('toggles "login" button on menu item click', async () => {});
   //
 
   it("renders a hamburger menu in responsive layout", async () => {});
