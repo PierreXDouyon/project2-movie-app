@@ -11,7 +11,6 @@ describe("StreamNow.vue", () => {
   
   it('shows filtered MovieDetailCards for each cinema movie accdording to "Search by name" and "Search by Genre', () => {});
 
-
   it('displays "Add To Watchlist" button', () => {});
 
   it("renders streaming icons for each platform", () => {});
