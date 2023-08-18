@@ -7,6 +7,7 @@ describe('App.vue', () => {
 
   it("displays an error message for wrong seach inputs", () => {});
 
+  it('displays the users search paramteters under the search bar after the "Search" button is clicked', () => {});
 
   it('shows filtered movies when search query is entered', async () => {
 
