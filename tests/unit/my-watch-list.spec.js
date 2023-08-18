@@ -1,5 +1,9 @@
 describe("MyWatchList.vue", () => {
-  it('renders search inputs for "Search by list" and "Search by genre"', () => {});
+  it('renders search inputs for "Search by list" and "Search by genre" for all movies added to the watchlist', () => { });
+  
+    it('emits "search" event when "Search" button is clicked', async () => {});
+
+    it("displays an error message for wrong seach inputs", () => {});
 
   it("renders MovieDetailCard for each watchlist movie", () => {});
 

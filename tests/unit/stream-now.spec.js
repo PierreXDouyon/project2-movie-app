@@ -1,9 +1,16 @@
 describe("StreamNow.vue", () => {
   //
-  it('renders search inputs for "Search by name" and "Search by genre"', () => {});
+  it('renders search inputs for "Search by name" and "Search by genre"', () => { });
+  
+  it('emits "search" event when "Search" button is clicked', async () => {});
+
+  it("displays an error message for wrong seach inputs", () => {});
   //
 
-  it("renders MovieDetailCard for streaming movie", () => {});
+  it("renders MovieDetailCard for streaming movie", () => { });
+  
+  it('shows filtered MovieDetailCards for each cinema movie accdording to "Search by name" and "Search by Genre', () => {});
+
 
   it('displays "Add To Watchlist" button', () => {});
 

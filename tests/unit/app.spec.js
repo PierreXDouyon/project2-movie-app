@@ -1,9 +1,12 @@
 
 describe('App.vue', () => {
 
-  it('renders the search input', () => {
+  it('renders the search input "Search by name" and "Search by genre"', () => {});
 
-  });
+  it('emits "search" event when "Search" button is clicked', async () => {});
+
+  it("displays an error message for wrong seach inputs", () => {});
+
 
   it('shows filtered movies when search query is entered', async () => {
 
