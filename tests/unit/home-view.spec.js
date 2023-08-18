@@ -1,4 +1,6 @@
 describe("App.vue", () => {
+  it("displays title and paragraph", () => {});
+
   it('renders the search input "Search by name" and "Search by genre"', () => {});
 
   it('emits "search" event when "Search" button is clicked', async () => {});
@@ -18,6 +20,4 @@ describe("App.vue", () => {
   // it('scrolls to the top when "Scroll Up" is clicked', async () => {
 
   // });
-
-  it("displays title and paragraph", () => {});
 });
