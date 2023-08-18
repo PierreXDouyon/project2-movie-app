@@ -15,7 +15,7 @@ describe("AddWatchList.vue", () => {
 
   it('displays an "Add to watchlist" button', () => {});
 
-  it('emits "(movie.name) Added to Watch list!" pop-up text event on "Add to Watch list" button click', async () => {});
+  it('emits " movie name, Added to Watch list!" pop-up text event on "Add to Watch list" button click', async () => {});
 
   it('clears inputs on "Clear" button click', async () => {});
 
